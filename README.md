@@ -211,7 +211,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**Business & Economy Analyst**
+** Muhammad Muarad 
 - Project Focus: Time Series Forecasting & Financial Analysis
 - Date: January 2026
 
@@ -224,3 +224,4 @@ This project is open source and available under the MIT License.
 ---
 
 **If you found this project helpful, please consider giving it a star ⭐ on GitHub or an upvote on Kaggle!**
+
